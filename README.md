@@ -1,5 +1,5 @@
 
-# Hardhat-Token Samat Contract
+# Hardhat-Token Smart Contract
 
 This project is a basic implementation of a Token smart contract, including the ability to transfer tokens between accounts and check balances.
 
